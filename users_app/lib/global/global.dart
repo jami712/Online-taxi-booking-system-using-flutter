@@ -30,7 +30,7 @@ String driverName = "";
 String driverPhoneNumber = "";
 double ratingStars = 0.0;
 String titleOfRatingStars = "";
-String mapKey = "AIzaSyAXHgBfC3EnGQKUSSdNA6uaClUJmppZbOI";
+String mapKey = "";
 String amount = "";
 StreamSubscription<Position>? streamSubscriptionLiveLocation;
 bool isConnected = false;
