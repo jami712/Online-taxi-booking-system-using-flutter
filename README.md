@@ -1,6 +1,5 @@
 README
 ________________________________________
-Online Taxi Booking System
 The Online Taxi Booking System is a fully functional, cross-platform mobile application built using Flutter and Dart. The system enables users to book rides and allows drivers to accept or reject ride requests. The app leverages real-time communication, geolocation, and secure cloud-based storage, ensuring a seamless experience for both users and drivers.
 ________________________________________
 📱 Key Features
