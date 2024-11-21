@@ -97,6 +97,6 @@ o	Collect payment from users and rate them.
 o	View trip history, share the app, or delete the account.
 ________________________________________
 🔗 Repository Link
-Online Taxi Booking System on GitHub
+<a href="https://github.com/jami712/Online-taxi-booking-system-using-flutter">Online Taxi Booking System on GitHub</a>
 ________________________________________
 
